@@ -32,7 +32,7 @@ int main()
     // Janela
     const int window_width = 1080;
     const int window_height = 720;
-    InitWindow(window_width, window_height, "janela");
+    InitWindow(window_width, window_height, "Pong");
 
     // Jogadores 1 e 2
     Paddle paddle1 = {5, window_height/2, 20, 100, 300, 0};
