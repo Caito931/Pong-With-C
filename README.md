@@ -1,6 +1,16 @@
 # Pong-With-C
 A Game Made using C and Raylib
 
+# Features
+
+- Two Player (W and S for player 1 / UP and DOWN for player 2)
+- Score For each Player
+
+# Screenshot
+<img src="screenshot1">
+
+# Code
+
 ```bash
 #include "raylib.h"
 #include <stdlib.h>
